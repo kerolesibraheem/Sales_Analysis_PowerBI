@@ -52,7 +52,7 @@ This project presents a comprehensive sales performance analysis for a company b
 - Power Query for data transformation.
 - DAX for Creating Measures, Calculated Columns and other Advanced Calculations.
 
-### Purpose and Outcome
+## Purpose and Outcome
 This analysis enables business leaders to:
 
 - Identify high- and low-performing regions and product categories.
