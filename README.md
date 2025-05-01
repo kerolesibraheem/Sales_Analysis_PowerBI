@@ -1,8 +1,3 @@
 # Sales_Analysis_PowerBI
-This project presents sales data for a retail company, visualized using Power BI to analyze performance across products, regions, customers, and order priorities from 2009 to 2012.
-
-I explored sales and profit trends, identified top-performing regions and product categories, analyzed shipping costs and durations, and segmented customer behavior to uncover key business drivers.
-
-The goal was to provide actionable insights for stakeholders to optimize sales strategies, improve regional performance, streamline shipping operations, and enhance customer segmentation and targeting.
-
-
+Project Summary
+This project showcases a comprehensive sales performance analysis for a retail company using Power BI dashboards. The data spans from 2009 to 2012 and includes over $14.92 million in total sales. The purpose of this analysis is to provide business stakeholders with actionable insights into product performance, regional sales efficiency, shipping logistics, and customer segmentation.
