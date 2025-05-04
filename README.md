@@ -12,13 +12,13 @@ This project presents a comprehensive sales performance analysis for a retail co
 - Standardized date and currency formats to streamline analysis.
 
 ## Key Analysis and Insights:
-### Overall Performance:
+### Overall Performance
 
 - Total Sales: $14.92M | Total Profit: $1.52M | Shipping Cost: $107.8K
 
 - The average discount offered was 5%, and products were shipped using 3 different shipping modes.
 
-### Profit and Sales Trends:
+### Profit and Sales Trends
 
 - Profit declined year-over-year from 2009 to 2012, with the highest in 2009.
 
@@ -26,7 +26,7 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 - West region led in the count of orders, suggesting high volume but not necessarily high profitability.
 
-### Product Performance:
+### Product Performance
 
 - Technology was the top-performing category in both sales and profit, generating over $6M in sales and nearly $1M in profit.
 
@@ -34,7 +34,7 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 - Office Supplies maintained balanced performance with moderate sales and profit.
 
-### Regions Overview:
+### Regions Overview
 
 - Ontario consistently led in both profit and shipping efficiency.
 
@@ -42,7 +42,7 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 - Count of orders by region revealed that West, Ontario, and Prairie were the most active regions.
 
-### Customer Segmentation:
+### Customer Segmentation
 
 - The Corporate segment was the largest in terms of both sales ($5.5M) and order count (3,080).
 
@@ -50,18 +50,18 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 - Segment analysis revealed valuable insights for customer-targeted marketing and sales strategy refinement.  
 
-### Shipping & Order Priority:
+### Shipping & Order Priority
 
 - Higher order priorities (e.g., "Critical") had shorter shipping durations and slightly reduced costs, possibly due to streamlined handling.
 
 - Average shipping costs varied significantly by region, with northern territories incurring higher costs.
 
-### Tools and Technologies Used:
+### Tools and Technologies
 - Power BI for creating interactive data visualizations and dashboards.
 - Power Query for data transformation.
 - DAX for Creating Measures, Calculated Columns and other Advanced Calculations.
 
-## Purpose and Outcome
+## Purpose
 This analysis enables business leaders to:
 
 - Identify high- and low-performing regions and product categories.
