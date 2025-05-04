@@ -54,9 +54,9 @@ This project presents a comprehensive sales performance analysis for a retail co
 - Average shipping costs varied significantly by region, with northern territories incurring higher costs.
 
 ### Tools and Technologies
-- Power BI for creating interactive data visualizations and dashboards.
-- Power Query for data transformation.
-- DAX for Creating Measures, Calculated Columns and other Advanced Calculations.
+- Power BI
+- Power Query
+- DAX
 
 ## Purpose
 This analysis enables business leaders to:
