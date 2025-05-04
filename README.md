@@ -20,7 +20,7 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 ### Profit and Sales Trends
 
-- Profit declined year-over-year from 2009 to 2012, with the highest in 2009.
+- Profit declined year over year from 2009 to 2012, with the highest in 2009.
 
 - Ontario, Prairie, and West regions generated the highest profits, while Nunavut contributed the least.
 
