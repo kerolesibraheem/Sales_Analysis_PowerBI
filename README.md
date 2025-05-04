@@ -48,8 +48,6 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 - Small Business had the lowest sales volume, but relatively stable profit margins.
 
- Segment analysis revealed valuable insights for customer-targeted marketing and sales strategy refinement.  
-
 ### Shipping & Order Priority
 
 - Higher order priorities (e.g., "Critical") had shorter shipping durations and slightly reduced costs, possibly due to streamlined handling.
