@@ -50,8 +50,7 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 ### Shipping & Order Priority
 
-- Higher order priorities (e.g., "Critical") had shorter shipping durations and slightly reduced costs, possibly due to streamlined handling.
-
+- Higher order priorities had shorter shipping durations.
 - Average shipping costs varied significantly by region, with northern territories incurring higher costs.
 
 ### Tools and Technologies
