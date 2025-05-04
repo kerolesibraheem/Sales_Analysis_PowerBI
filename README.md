@@ -59,9 +59,9 @@ This project presents a comprehensive sales performance analysis for a retail co
 - DAX
 
 ## Purpose
-- Identify high- and low-performing regions and product categories.
+- Identify high- and low performing regions and product categories.
 
-- Understand the cost-to-profit dynamics, especially in high-shipping-cost areas.
+- Understand the cost to profit dynamics, especially in high shipping cost areas.
 
 - Tailor strategies for inventory, shipping logistics, and promotional campaigns.
 
