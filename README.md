@@ -38,9 +38,9 @@ This project presents a comprehensive sales performance analysis for a retail co
 
 - Ontario consistently led in both profit and shipping efficiency.
 
-- Yukon had the highest shipping cost on average, while Northwest Territories had the shortest shipping duration.
+- Yukon had the highest shipping cost on average, while Northwest Territories had the shortest average shipping duration.
 
-- Count of orders by region revealed that West, Ontario, and Prairie were the most active regions.
+- Count of orders by region revealed that West, Ontario, and Prarie were the most active regions.
 
 ### Customer Segmentation
 
